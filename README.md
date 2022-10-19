@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huanglinh&show_icons=true&locale=en" alt="Huanglinh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huanglinh&" alt="huanglinh" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=huanglinh&theme=redical&hide_title=false&hide_border=false" /></p>
